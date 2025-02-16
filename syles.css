@@ -5,12 +5,12 @@
     background-size: cover;
 }
 table{
-    width: 50%;
+    width: 100%;
     border-collapse: collapse;
     
 }
 th, td {
-    border: 1px solid black;
+    
     padding: 8px;
     text-align: center;
     color: white;
