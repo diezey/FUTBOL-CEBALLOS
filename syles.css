@@ -5,7 +5,7 @@
     background-size: cover;
 }
 table{
-    width: 50%;
+    width: 30%;
     border-collapse: collapse;
     
 }
@@ -30,8 +30,8 @@ p{
 }
 .jornada{
    position:absolute;
-   top: 180px;
-   left: 1000px;
+   top: 20vh;
+   left: 50vw;
 }
 lu{
   font-size:25px;
